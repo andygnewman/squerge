@@ -1,1 +1,7 @@
 This is a test of squerging - tidying up commit history
+I have put in a change to master also that is moving ahead of my branch.
+Process is once a number of commits have been made
+In this example I am commiting each line
+before I do a rebase.
+Here's a link to the article explaining the process;
+http://remy.bach.me.uk/blog/2015/02/the-humble-squerge/

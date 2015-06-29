@@ -1,1 +1,2 @@
 This is a test of squerging - tidying up commit history
+I have put in a change to master also that is moving ahead of my branch.
